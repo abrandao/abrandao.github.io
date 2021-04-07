@@ -67,6 +67,11 @@ p.lead {
   margin-right: 1rem;
 }
 
+.links {
+  display: inline-block;
+  line-height: 10rem;
+}
+
 .social-icons a:last-child {
   margin-right: 0;
 }
