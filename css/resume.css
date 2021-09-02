@@ -70,6 +70,7 @@ p.lead {
 .links {
   display: inline-block;
   line-height: 1gem0rem;
+  margin-top: 12px;
 }
 
 .social-icons a:last-child {
